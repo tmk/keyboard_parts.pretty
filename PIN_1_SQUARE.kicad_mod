@@ -1,0 +1,10 @@
+(module 00Keyboard:PIN_1_SQUARE (layer F.Cu)
+  (tags "CONN pin 1 square")
+  (fp_text reference Val (at 0 -1.45) (layer F.SilkS)
+    (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
+  )
+  (fp_text value CONN_1 (at 0 1.15) (layer F.SilkS) hide
+    (effects (font (size 0.4 0.3) (thickness 0.075)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+)
