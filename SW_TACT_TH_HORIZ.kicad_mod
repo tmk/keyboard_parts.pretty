@@ -1,4 +1,4 @@
-(module 00Keyboard:SW_TACT_TH_HORIZ (layer F.Cu)
+(module SW_TACT_TH_HORIZ (layer F.Cu) (tedit 548561E5)
   (descr http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html)
   (tags "ALPS SKHH tactile switch")
   (fp_text reference SW_TACT_TH_HORIZ (at 0.05 -5) (layer F.SilkS) hide
@@ -14,8 +14,8 @@
   (fp_line (start -3.75 -1.05) (end -3.75 2.55) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.75 2.55) (end 3.75 2.55) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.75 2.55) (end 3.75 -1.05) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at 2.25 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at -2.25 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 2.25 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at -2.25 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 3.5 -2.5) (size 2 2) (drill 1.3) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at -3.5 -2.55) (size 2 2) (drill 1.3) (layers *.Cu *.Mask F.SilkS))
 )
