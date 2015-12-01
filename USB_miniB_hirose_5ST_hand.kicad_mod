@@ -1,10 +1,10 @@
-(module USB_miniB_hirose_new (layer F.Cu) (tedit 5485C0BC)
+(module USB_miniB_hirose_5ST_hand (layer F.Cu) (tedit 5485C0BC)
   (descr "USB miniB hirose UX60SC_MB_5ST")
   (tags "USB miniB hirose new")
   (fp_text reference J1 (at 0 2.45) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.2032)))
   )
-  (fp_text value USB_mini_micro_B (at 0 7.95) (layer F.SilkS) hide
+  (fp_text value USB_miniB (at 0 7.95) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start -1 6.1) (end 1 6.1) (layer Dwgs.User) (width 0.2))
