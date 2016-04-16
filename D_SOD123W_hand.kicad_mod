@@ -1,4 +1,4 @@
-(module D_SOD123 (layer F.Cu) (tedit 561B69D3)
+(module D_SOD123W_hand (layer F.Cu) (tedit 561B69E3)
   (attr smd)
   (fp_text reference D_SOD123 (at 0 1.925) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
