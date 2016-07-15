@@ -1,4 +1,6 @@
 (module 4P4C (layer F.Cu) (tedit 573A6B12)
+  (descr http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf)
+  (tags "4P4C, RJ")
   (fp_text reference REF** (at 0 3.8) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
