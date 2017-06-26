@@ -1,4 +1,4 @@
-(module USB_miniB_hirose_5S8 (layer F.Cu) (tedit 58DC6123)
+(module USB_miniB_hirose_5S8 (layer F.Cu) (tedit 5950B1FC)
   (descr "USB miniB hirose UX60SC-MB-5S8")
   (tags "USB miniB hirose through hole UX60SC-MB-5S8")
   (fp_text reference J1 (at 0 2.45) (layer F.SilkS) hide
@@ -17,6 +17,8 @@
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (fp_line (start -3.85 6.6) (end 3.85 6.6) (layer Dwgs.User) (width 0.2))
+  (pad 6 smd rect (at 2.675 5.2) (size 2.35 0.8) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at -2.675 5.2) (size 2.35 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.6 0) (size 0.5 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.8 0) (size 0.5 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 0) (size 0.5 1.4) (layers F.Cu F.Paste F.Mask))
